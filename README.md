@@ -1,2 +1,2 @@
 # com.amazon.fire.rootChecker
-This project is tested with BrowserStack
+This project is tested with BrowserStack.
